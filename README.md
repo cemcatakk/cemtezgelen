@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cem TEZGELEN
+- 👋 Hi, I’m Cem TEZGELEN (A.K.A Cem ÇATAK)
 - 👀 I’m interested in C, C#, C++, Java, Python, Javascript, HTML, CSS, PHP, SQL(MySQL,PlSQL,MsSQL), ASP, .NET, Entity Framework
 - 🌱 I’m currently learning .NET CORE, MVC
 - 📫 How to reach me: cemtezgelenn@gmail.com - https://www.sadeceon.com/tr/cemcatak
